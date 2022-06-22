@@ -1,7 +1,7 @@
 {
   "name": "indtools",
   "productName": "indtools",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
   "scripts": {
@@ -26,7 +26,8 @@
             "repository": {
               "owner": "anishtr4",
               "name": "indTools"
-            }
+            },
+            "draft": true
           }
         }
       ],
